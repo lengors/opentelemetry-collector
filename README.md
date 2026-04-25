@@ -1,6 +1,6 @@
 # Welcome to OpenTelemetry Collector &middot; [![GitHub license](https://img.shields.io/github/license/lengors/opentelemetry-collector?color=blue)](https://github.com/lengors/opentelemetry-collector/blob/main/LICENSE)
 
-Welcome to the **opentelemetry-collector** repository! This project provides with a custom container image extending [opentelemetry-collector containers](https://github.com/open-telemetry/opentelemetry-collector) with a custom user.
+Welcome to the **opentelemetry-collector** repository! This project provides with a custom container image extending [opentelemetry-collector containers](https://github.com/open-telemetry/opentelemetry-collector) with additional utilities.
 
 ## Documentation and Resources
 
